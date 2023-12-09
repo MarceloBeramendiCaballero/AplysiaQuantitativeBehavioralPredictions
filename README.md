@@ -1,6 +1,6 @@
 <h1>Predicting the amount of food swallowed during Aplysia californica feeding from neural recordings
 
- ### [5 Minute Explanation](https://www.youtube.com/watch?v=bo0Ssb4slkw)
+ ### [5 Minute Explanation](https://youtu.be/J4e2D_UsrW0)
 
   ### [Paper](https://drive.google.com/drive/u/1/home)
 
